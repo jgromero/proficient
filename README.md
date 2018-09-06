@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# PROFICIENT
+**Deep Learning for Energy-Efficient Building Control**
 
-You can use the [editor on GitHub](https://github.com/jgromero/proficient/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Buildings account for more than one-third of the worldwide energy consumption, and they are an equally important source of CO2 emissions. A critical task to improve energy efficiency is to adapt HVAC (heat, ventilation, and air-conditioning) equipment operation to energy demand, minimizing consumption while keeping occupants comfortable. Model-predictive control (MPC) approaches have proved successful to generate HVAC operational control plans, but they still present several drawbacks: they require constructing a detailed physical model of each building, which implies a considerable effort, and have important performance limitations, which strongly limit the opportunities for implementing new intelligent optimization procedures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PROFICIENT aims at solving these issues by developing novel deep reinforcement learning techniques capable of: (1) learning a more efficient predictive model of the building from sensor data; and (2) optimizing the computation of operational plans without using heuristic knowledge.
 
-### Markdown
+**Stay tuned for updates!**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Support and contact
+Principal Investigator: [Dr. Juan Gómez-Romero](http://decsai.ugr.es/~jgomez)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+>**PROFICIENT** is funded by the **EXPLORA** programme of the Spanish Ministry of Science, Innovation and Universities in 2018-2020 (TIN2017-91223-EXP).
 
-- Bulleted
-- List
+<img align="left" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logotipo_del_Ministerio_de_Ciencia%2C_Innovación_y_Universidades.svg"/>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jgromero/proficient/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
