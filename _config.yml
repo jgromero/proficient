@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 
 title: [PROFICIENT]
 description: [Deep Learning for Energy-Efficient Building Control]
+
+google_analytics: [UA-83363738-3]
