@@ -11,7 +11,7 @@ PROFICIENT aims at solving these issues by developing novel deep reinforcement l
 Principal Investigator: [Dr. Juan Gómez-Romero](http://decsai.ugr.es/~jgomez)
 
 
->**PROFICIENT** is funded by the **EXPLORA** programme of the Spanish Ministry of Science, Innovation and Universities in 2018-2020 (TIN2017-91223-EXP).
+>**PROFICIENT** is a 2-year project funded by the **EXPLORA** programme of the Spanish Ministry of Science, Innovation and Universities in 2018-2020 (TIN2017-91223-EXP).
 
 <img align="left" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logotipo_del_Ministerio_de_Ciencia%2C_Innovación_y_Universidades.svg"/>
 
